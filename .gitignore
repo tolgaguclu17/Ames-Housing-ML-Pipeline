@@ -1,0 +1,9 @@
+# Ignore Python cache files
+__pycache__/
+.ipynb_checkpoints/
+
+# Ignore operating system remnants
+.DS_Store
+
+# Do not uploade raw data to GitHub
+data/raw/
